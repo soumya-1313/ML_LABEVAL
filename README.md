@@ -17,7 +17,11 @@ Least Angle Regression (LARS)
 Random Forest Regressor
 K-Nearest Neighbors (KNN)
 
-**Visualizations**
+***Visualizations***
 **plots**
 ![image](https://github.com/user-attachments/assets/df46479c-30a1-443b-96f6-a074657326de)
+![image](https://github.com/user-attachments/assets/056de291-babb-4957-ad43-23c9103257c9)
+![image](https://github.com/user-attachments/assets/60a531bb-4e83-484f-a269-8be4a31a74e2)
+
+
 
